@@ -17,3 +17,8 @@ setting the FLASK_APP environment variable
 running the web application
 
 (venv) $ flask run
+
+
+Introducing  to Flask-WTF
+
+(venv) $ pip install flask-wtf
